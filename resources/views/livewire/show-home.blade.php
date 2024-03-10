@@ -21,7 +21,7 @@
                         </div>
                     </div>
 
-                    <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/2.jpg)">
+                    <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/2.png)">
                         <div class="carousel-container">
                             <div class="container">
                                 <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -33,7 +33,7 @@
                         </div>
                     </div>
 
-                    <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/3.jpg)">
+                    <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/3.png)">
                         <div class="carousel-container">
                             <div class="container">
                                 <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>

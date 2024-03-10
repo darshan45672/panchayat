@@ -34,14 +34,6 @@
     <!-- Template Main CSS File -->
     <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: eBusiness
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
     <title>{{ $title ?? 'PRASM' }}</title>
 </head>
 @livewireStyles
