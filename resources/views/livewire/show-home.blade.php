@@ -853,7 +853,7 @@
                                 <div class="single-icon">
                                     <i class="bi bi-phone"></i>
                                     <p>
-                                        Call: +1 5589 55488 55<br>
+                                        Call: +1 5589 55488 <br>
                                         <span>Monday-Friday (9am-5pm)</span>
                                     </p>
                                 </div>
