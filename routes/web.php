@@ -1,6 +1,9 @@
 <?php
 
+use App\Livewire\ContactUs;
+use App\Livewire\ShowAboutUs;
 use App\Livewire\ShowHome;
+use App\Livewire\ShowServices;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,3 +22,6 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/', ShowHome::class)->name('home');
+Route::get('/about', ShowAboutUs::class)->name('about-us');
+Route::get('/services', ShowServices::class)->name('services');
+Route::get('/contact', ContactUs::class)->name('contact');
