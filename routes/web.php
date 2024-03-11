@@ -23,5 +23,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', ShowHome::class)->name('home');
 Route::get('/about', ShowAboutUs::class)->name('about-us');
-Route::get('/service', ShowServices::class)->name('services');
+Route::get('/services', ShowServices::class)->name('services');
 Route::get('/contact', ContactUs::class)->name('contact');
