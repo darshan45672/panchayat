@@ -18,9 +18,10 @@
                             <div class="services-details">
                                 <div class="single-services">
                                     <a class="services-icon" href="#">
-                                        <i class="bi bi-briefcase"></i>
+                                    <i class="bi-water"></i>
+
                                     </a>
-                                    <h4>Water</h4>
+                                    <a href="#"><h4>Water</h4> </a>
                                     <p>
                                         will have to make sure the prototype looks finished by inserting text or
                                         photo.make sure the prototype looks finished by.
@@ -35,7 +36,7 @@
                             <div class="services-details">
                                 <div class="single-services">
                                     <a class="services-icon" href="#">
-                                        <i class="bi bi-card-checklist"></i>
+                                        <i class="bi bi-power "></i>
                                     </a>
                                     <h4>Electricity</h4>
                                     <p>
@@ -53,7 +54,7 @@
                             <div class="services-details">
                                 <div class="single-services">
                                     <a class="services-icon" href="#">
-                                        <i class="bi bi-bar-chart"></i>
+                                    <i class="bi bi-card-checklist"></i>
                                     </a>
                                     <h4>House Survey</h4>
                                     <p>
