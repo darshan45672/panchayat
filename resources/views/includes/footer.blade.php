@@ -7,7 +7,7 @@
                     <div class="footer-content">
                         <div class="footer-head">
                             <div class="footer-logo">
-                                <h2><span>e</span>Business</h2>
+                                <h2>Panchayat Management System</h2>
                             </div>
 
                             <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
@@ -40,9 +40,9 @@
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
                             </p>
                             <div class="footer-contacts">
-                                <p><span>Tel:</span> +123 456 789</p>
-                                <p><span>Email:</span> contact@example.com</p>
-                                <p><span>Working Hours:</span> 9am-5pm</p>
+                                <p><span>Phone:</span> +91 7795295690</p>
+                                <p><span>Email:</span> panchayat@gmail.com</p>
+                                <p><span>Working Hours:</span> Mon-Fri: 9am-5pm</p>
                             </div>
                         </div>
                     </div>
@@ -72,18 +72,19 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="copyright text-center">
                         <p>
-                            &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+                            &copy; Copyright <strong>panchayat</strong>. All Rights Reserved
                         </p>
                     </div>
-                    <div class="credits">
-                        <!--
+                    <!--
           All the links in the footer should remain intact.
           You can delete the links only if you purchased the pro version.
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
         -->
+                    <!-- <div class="credits">
+                        
                         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
